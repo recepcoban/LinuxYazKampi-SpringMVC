@@ -1,5 +1,5 @@
 JavaEE (Framework)
-- JPA
+- JPA (Hibernate, EclipseLink, IBatis)
 - Bean Validation
 - CDI
 - EJB
