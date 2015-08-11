@@ -1,2 +1,2 @@
-# LinuxYazKamp-SpringMVC
+# LinuxYazKampi-SpringMVC
 Linux Yaz Kampı  -Spring MVC ile Web Uygulama Geliştirme Notları
