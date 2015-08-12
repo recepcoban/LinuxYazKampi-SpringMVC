@@ -1,0 +1,10 @@
+.gitignore
+mv a.txt .gitignore (for Windows)
+git init
+git status
+git add .
+git status
+git commit -m 'initial commit'
+git status
+git remote (.git link)
+git push -u origin master
