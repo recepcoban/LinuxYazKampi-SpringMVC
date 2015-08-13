@@ -1,0 +1,8 @@
+PathVariable
+- update/5
+
+update/{5}
+
+(@PathVariable("id") Long id, @PathVariable("name") String name)
+
+update/{id}/{name}
