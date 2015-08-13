@@ -1,0 +1,10 @@
+Dependency Injection
+
+- nesneyi poola ekleme
+@Controller
+@Service
+@Repository
+@Component
+
+- nesneyi pooldan cekme
+@Autowired
