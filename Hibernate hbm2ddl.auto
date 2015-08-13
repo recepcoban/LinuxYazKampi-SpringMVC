@@ -1,0 +1,7 @@
+Automatically validates or exports schema DDL to the database when the SessionFactory is created. 
+With create-drop, the database schema will be dropped when the SessionFactory is closed explicitly.
+
+validate | update | create | create-drop
+* validate- existing schema
+* update- only update your schema once created
+* create- create schema every time
