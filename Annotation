@@ -8,3 +8,6 @@ Dependency Injection
 
 - nesneyi pooldan cekme
 @Autowired
+
+- paket altındakileri getir
+@ComponentScan("tr.lkd.lyk2015.springtodo")
