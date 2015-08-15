@@ -1,0 +1,28 @@
+*** sources ***
+-src
+| -main
+|  |-java
+|  |-resources
+| -test
+|  |-java
+|  |-resources
+-pom.xml
+-target
+
+
+*** clean ***
+- validate
+- compile
+- test
+- integration-test
+- verify
+- install
+- deploy
+
+*** mvn clean install ***
+clean ile target siliniyor
+ardından validate, compile, test, int-test, verify gibi işlemleri
+sırasıyla yapıyor 
+ve build ederek jar oluşturuyor.
+
+sonatype (nexus)
