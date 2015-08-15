@@ -11,3 +11,7 @@ Dependency Injection
 
 - paket altındakileri getir
 @ComponentScan("tr.lkd.lyk2015.springtodo")
+
+* for hibernate *
+@Id => primary key
+@GeneratedValue = AutoIncrement
